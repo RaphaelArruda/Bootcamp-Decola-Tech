@@ -1,5 +1,4 @@
-Git Add . (adiciona tudo)
-Git Commit -m (Inclui texto)
-Git push origin main (envia todos os comits para nuvem)
-Git add . atualizar adicionar)
 Git Clone (cola o htpps da nuvem no local)
+Git Add . (adiciona tudo para o servidor local)
+Git Commit -m (Inclui texto) (usar isso antes de mandar para nuvem)
+Git push origin main (envia todos os comits para servidor nuvem)
